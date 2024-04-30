@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667459663296",
+    "project_id": "stephanie-b562a",
+    "storage_bucket": "stephanie-b562a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667459663296:android:b811202cffecc371ff4425",
+        "android_client_info": {
+          "package_name": "com.example.stephanie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyigucoJwu5ww0xWYlgb7XS3chC1-CBi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
